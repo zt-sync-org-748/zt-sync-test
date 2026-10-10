@@ -1,0 +1,7 @@
+{
+    "name": "pkbbtmpb748/zt-sync-test",
+    "description": "throwaway sync test package",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
