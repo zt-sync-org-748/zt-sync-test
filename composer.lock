@@ -2,7 +2,7 @@
     "_readme": [
         "This file locks the dependencies of your project to a known state"
     ],
-    "content-hash": "zt0sync0test0content0hash0000000000000000000000000000000000000000",
+    "content-hash": "zt0sync0test0content0hash0000000000000000000000000000000000000001",
     "packages": [
         {
             "name": "psr/log",
@@ -20,6 +20,29 @@
             },
             "require": {
                 "php": ">=8.0.0"
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ]
+        },
+        {
+            "name": "monolog/monolog",
+            "version": "2.9.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Seldaek/monolog.git",
+                "reference": "d1fb3ff5a1c090e0a4c5f23b9a6e7b8f5a1b2c3d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/d1fb3ff5a1c090e0a4c5f23b9a6e7b8f5a1b2c3d",
+                "reference": "d1fb3ff5a1c090e0a4c5f23b9a6e7b8f5a1b2c3d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2",
+                "psr/log": ">=1.0.1"
             },
             "type": "library",
             "license": [
