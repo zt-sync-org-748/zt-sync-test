@@ -3,5 +3,8 @@
     "description": "throwaway sync test package",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "php": ">=8.0",
+        "psr/log": "^3.0"
+    }
 }
