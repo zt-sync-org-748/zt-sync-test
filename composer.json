@@ -1,6 +1,6 @@
 {
     "name": "pkbbtmpb748/zt-sync-test",
-    "description": "throwaway sync test package",
+    "description": "throwaway sync test package (private-era canary ZT-PRIVATE-CANARY-7c41f6)",
     "type": "library",
     "license": "MIT",
     "require": {}
